@@ -1,0 +1,6 @@
+java -ea amazons.Main
+manual black
+*time 30 90
+auto white
+* move
+* remote move/win
